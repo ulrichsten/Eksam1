@@ -1,0 +1,7 @@
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\ex2\bin\Debug\ex2.exe.config
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\ex2\bin\Debug\ex2.exe
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\ex2\bin\Debug\ex2.pdb
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\ex2\obj\Debug\ex2.exe
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\ex2\obj\Debug\ex2.pdb
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del\bin\Debug\del.exe.config
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del\bin\Debug\del.exe
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del\bin\Debug\del.pdb
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del\obj\Debug\del.csproj.CoreCompileInputs.cache
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del\obj\Debug\del.exe
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del\obj\Debug\del.pdb

@@ -1,0 +1,2 @@
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del1\obj\Debug\del1.csprojResolveAssemblyReference.cache
+C:\Users\stenu\OneDrive\Desktop\eksam\exam\del1\obj\Debug\del1.csproj.CoreCompileInputs.cache
